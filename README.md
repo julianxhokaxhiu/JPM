@@ -25,7 +25,7 @@ where <code>sources.json</code> is just an Array of strings. For example:
 Until now it supports multiple sources, and merge all the packages defined in the URLs inside a list.
 Then you can use defined methods to refresh packages, install/update or remove a single package.
 
-The structure of a single package would be:
+The structure of <code>packages.json</code> would be:
 
 <pre>
 [
